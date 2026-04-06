@@ -1,0 +1,23 @@
+# Gen-Z Life Simulator
+
+A text-based life simulation game built in Java where a university
+student attempts to survive a 7-day week balancing study, work,
+and social life.
+
+## Features
+- 7-day simulation with 9 activity types across 4 categories
+- Probabilistic events with random outcomes per activity
+- 4 early termination conditions (burnout, exhaustion, etc.)
+- Gen-Z Survival Score (GZSS) with 5 possible endings
+
+## Tech Stack
+- Java
+- OOP principles: inheritance, polymorphism, abstract classes, enums
+
+## How to Run
+1. Clone the repo
+2. Compile: `javac GenZLifeSimulator.java`
+3. Run: `java GenZLifeSimulator`
+
+## Course
+FIT1051 - Introduction to Programming, Monash University (Oct 2025)
