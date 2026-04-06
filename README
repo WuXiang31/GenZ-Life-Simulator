@@ -4,6 +4,13 @@ A text-based life simulation game built in Java where a university
 student attempts to survive a 7-day week balancing study, work,
 and social life.
 
+## Overview
+Each day, the player chooses up to two activities — attending class,
+working shifts, socialising, or self-care. Every choice affects four
+core stats: Energy, Money, Grades, and Happiness. Push too hard and
+the simulation ends early; balance it well and you might just survive
+the week.
+
 ## Features
 - 7-day simulation with 9 activity types across 4 categories
 - Probabilistic events with random outcomes per activity
